@@ -4,6 +4,8 @@
 - 👀 I’m interested in AWS, Machine Learning 
 - 🌱 I’m currently learning Cloud Computing
 
+- Hello Yo, nice to meet you here. Looking forward to see you.
+
 
 
 <!---
